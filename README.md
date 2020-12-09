@@ -1,11 +1,7 @@
 ![Jones-Dumas Digital Logo](img/Name-Logo-Twitter-Header.png)
 
-<h1 align="center">HI! I'M BRITTANY JONES-DUMAS 👋🤓</h1>
-
-
-<h2 align="center">Just Britt is fine 😊</h2>
-
-
+# HI! I'M BRITTANY JONES-DUMAS 👋🤓
+## Just Britt is fine 😊
 ## PHP and cheap whiskey is my brand 💅🏾🥃
 
 
