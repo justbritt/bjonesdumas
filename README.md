@@ -7,15 +7,15 @@
 <h3 align="center">PHP and cheap whiskey is my brand 💅🏾🥃</h3>
 
 
-#### Pronouns ✊
+### Pronouns ✊
 she / her 
 
-#### 2020 Happenings 😎
+### 2020 Happenings 😎
 Learning and loving the TALL Stack 
 
 Pivoted from WordPress to Statamic. 
 
-#### You can find me 👇
+### You can find me 👇
 [Twitter](https://twitter.com/justbritt_jd) 🐦
 
 
@@ -26,5 +26,5 @@ Pivoted from WordPress to Statamic.
 
 [Dev.to](https://dev.to/justbritt_jd) 📝
 
-#### Blog Post ✍️
+### Blog Post ✍️
 [Learning PHP in 2020](https://dev.to/justbritt_jd)
