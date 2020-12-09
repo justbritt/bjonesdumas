@@ -6,7 +6,6 @@
 
 ## Just Britt is fine 😊
 
-___
 
 ## PHP and cheap whiskey is my brand 💅🏾🥃
 
