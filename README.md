@@ -1,3 +1,5 @@
+![Jones-Dumas Digital Logo](img/Name-Logo-Twitter-Header.png)
+
 <h1 align="center">HI! I'M BRITTANY JONES-DUMAS 👋🤓</h1>
 
 
