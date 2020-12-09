@@ -6,7 +6,7 @@
 <h2 align="center">Just Britt is fine 😊</h2>
 
 
-<h3 align="center">PHP and cheap whiskey is my brand 💅🏾🥃</h3>
+<p align="center">PHP and cheap whiskey is my brand 💅🏾🥃</p>
 
 
 ### Pronouns ✊
