@@ -1,7 +1,11 @@
 <h1 align="center">HI! I'M BRITTANY JONES-DUMAS 👋🤓</h1>
-<h2 align=""center">Just Britt is fine 😊</h2>
 
-PHP and cheap whiskey is my brand 💅🏾🥃
+
+<h2 align="center">Just Britt is fine 😊</h2>
+
+
+<h3 align="center">PHP and cheap whiskey is my brand 💅🏾🥃</h3>
+
 
 #### Pronouns ✊
 she / her 
